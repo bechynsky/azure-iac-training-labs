@@ -14,13 +14,13 @@ To ensure a smooth training experience, students must meet the following prerequ
 ## Labs
 
 1. [Azure Cloud Shell](./01%20AzureCloudShell/README.md)
-1. [GitHub](./02%20GitHub/Lab-Instructions.md)
-1. [PowerShell basics](./03%20PowerShell-Basics/Lab-Instructions.md)
-1. [Azure PowerShell](./04%20AzurePowerShell/Lab-Instructions.md)
-1. [Azure CLI](./05%20AzureCLI/Lab-Instructions.md)
-1. [Azure Automation](./06%20Automation/Lab-Instructions.md)
-1. [Bicep](./07%20Bicep/Lab-Instructions.md)
-1. [GitHib Actions](./08%20GitHub%20Actions/Lab-Instructions.md)
+1. [GitHub](./02%20GitHub/README.md)
+1. [PowerShell basics](./03%20PowerShell-Basics/README.md)
+1. [Azure PowerShell](./04%20AzurePowerShell/README.md)
+1. [Azure CLI](./05%20AzureCLI/README.md)
+1. [Azure Automation](./06%20Automation/README.md)
+1. [Bicep](./07%20Bicep/README.md)
+1. [GitHib Actions](./08%20GitHub%20Actions/README.md)
 
 ## Notes
 
