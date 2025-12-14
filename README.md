@@ -13,7 +13,7 @@ To ensure a smooth training experience, students must meet the following prerequ
 
 ## Labs
 
-1. [Azure Cloud Shell](./01%20AzureCloudShell/Lab-Instructions.md)
+1. [Azure Cloud Shell](./01%20AzureCloudShell/README.md)
 1. [GitHub](./02%20GitHub/Lab-Instructions.md)
 1. [PowerShell basics](./03%20PowerShell-Basics/Lab-Instructions.md)
 1. [Azure PowerShell](./04%20AzurePowerShell/Lab-Instructions.md)
