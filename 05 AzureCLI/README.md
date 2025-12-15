@@ -2,7 +2,7 @@
 
 *Goal:* Practice creating and managing Azure resources using Azure CLI.
 
-## Instructions:
+## Instructions
 
 - Create a new resource group named cli-lab-rg.
 - Create a storage account with a unique name (use a random suffix).
@@ -13,6 +13,10 @@
 az storage container create --account-name <your-storage-account> --name demo-container --auth-mode login
 ```
 
-## Best Practices:
+## Hint
+
+- [AZ CLI commands](https://learn.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest)
+
+## Best Practices
 - Use --https-only true for secure storage accounts.
 - Use --auth-mode login to leverage Azure AD authentication instead of access keys.

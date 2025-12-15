@@ -1,4 +1,4 @@
-# Bicep Lab Hands-On Exercise (15–20 min)
+# Bicep Hands-On Exercise (15–20 min)
 
 *Goal:* Author and deploy a Bicep template for a Storage Account using Cloud Shell.
 

@@ -2,7 +2,7 @@
 
 *Goal:* Create a GitHub repository, clone it in Cloud Shell, and make your first commit.
 
-## Instructions:
+## Instructions
 
 - Authenticate to GitHub using gh auth login.
 - Create a new repository named azure-iac-lab.
@@ -10,7 +10,11 @@
 - Add a README.md file, commit, and push your changes.
 - View your repository in the browser.
 
-## Best Practices:
+## Hint
+
+- [Introduction to GitHub](https://github.com/skills/introduction-to-github)
+
+## Best Practices
 
 - Use meaningful commit messages.
 - Never store secrets or credentials in your repository.

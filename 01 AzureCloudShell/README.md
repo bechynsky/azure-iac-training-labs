@@ -2,7 +2,7 @@
 
 *Goal:* Practice launching Cloud Shell, setting up storage, and selecting the correct subscription.
 
-## Instructions:
+## Instructions
 
 - Open Cloud Shell in your browser.
 - Choose Bash or PowerShell.
@@ -11,7 +11,11 @@
 - List all subscriptions and set the one provided by your instructor.
 - Confirm your active subscription.
 
-## Best Practices:
+## Hint
+
+- [Get started with Azure Cloud Shell](https://learn.microsoft.com/en-us/azure/cloud-shell/get-started/classic?tabs=azurecli)
+
+## Best Practices
 
 - Always verify your active subscription before creating resources.
 - Use persistent storage for saving scripts and files across sessions.

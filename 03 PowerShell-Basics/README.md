@@ -2,8 +2,9 @@
 
 *Goal:* Create and manage Azure resources using Azure PowerShell in Cloud Shell.
 
-## Instructions:
+## Instructions
 
+- Open [Azure Cloud Shell](https://shell.azure.com/) and login
 - Try to run follwing commands in prompt line by line.
 
 ```powershell
@@ -31,7 +32,12 @@ Get-TopCpu 3 | ConvertTo-Json | Out-File topcpu.json
 cat topcpu.json
 ```
 
-## Best Practices:
+## Hint
+
+- Look to [PowerShell documentation](https://learn.microsoft.com/en-us/powershell/module/) to understand used cmdlets.
+
+
+## Best Practices
 
 - Use parameters avoid hardcoding.
 - Never hardcode secrets.
