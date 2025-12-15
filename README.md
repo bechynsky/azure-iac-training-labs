@@ -1,5 +1,12 @@
-# Hands-On Exercise
+# Azure Infrastructure as Code 101 Hands-On Exercise
 
+- Manage infrastructure the same way as application code
+- Easy to document everything described in files
+- Easy to repeat same script, same environment every time
+- Ensures consistency across dev, test, and production
+- Reduces human error by automating tasks
+- Enables collaboration: version control, sharing, reviewing
+- Copilot helps to write code and documentation
 
 ## Prerequisites for Students
 
