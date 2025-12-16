@@ -1,4 +1,11 @@
-param storageName string
-param location string = resourceGroup().location
+targetScope = 'resourceGroup'
 
-// Define the storage account resource here
+param storagePrefix string
+param skuName string = 'Standard_LRS'
+
+module storage '<module reference>' = {
+    <parameters>
+  }
+}
+
+output "<add your code here>"
