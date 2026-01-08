@@ -8,6 +8,13 @@
 - Enables collaboration: version control, sharing, reviewing
 - Copilot helps to write code and documentation
 
+## Target Audience
+
+This training is primarily designed for **Azure Administrators** who want to learn Infrastructure as Code practices and automate their Azure infrastructure management. The content covers essential IaC tools and techniques that Azure Admins use daily.
+
+This training is also beneficial for **developers** who work with Azure resources and want to understand how to provision and manage infrastructure programmatically, enabling better collaboration between development and operations teams.
+
+
 ## Prerequisites for Students
 
 To ensure a smooth training experience, students must meet the following prerequisites:
