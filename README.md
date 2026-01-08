@@ -24,6 +24,7 @@ To ensure a smooth training experience, students must meet the following prerequ
 - *Device and Browser:* Access to a computer with Microsoft Edge or Chrome browser.
 - *No Local Tools Required:* All activities will be performed in Azure Cloud Shell and the browser; no local installations are needed.
 - *Workshop Environment:* Ensure [Azure Cloud Shell](https://learn.microsoft.com/en-us/azure/cloud-shell/get-started/classic?tabs=azurecli) is configured.
+- *Recommendation:* Install [Visual Studio Code](https://code.visualstudio.com/) and configure [GitHub](https://code.visualstudio.com/docs/sourcecontrol/github) and [Github Copilot](https://code.visualstudio.com/docs/copilot/getting-started).
 
 ## Labs
 
