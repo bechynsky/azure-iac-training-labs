@@ -13,6 +13,8 @@
 ## Hint
 
 - [Introduction to GitHub](https://github.com/skills/introduction-to-github)
+- [GitHub CLI manual](https://cli.github.com/manual/index)
+- [gittutorial - A tutorial introduction to Git](https://git-scm.com/docs/gittutorial)
 
 ## Best Practices
 
