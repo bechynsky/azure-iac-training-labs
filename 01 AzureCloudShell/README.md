@@ -8,7 +8,7 @@
 - Choose Bash or PowerShell.
 - If prompted, create and mount a storage account.
 - Try commont tools like git, etc.
-- List all subscriptions and set the one provided by your instructor.
+- List all subscriptions and set the one you plan to use.
 - Confirm your active subscription.
 
 ## Hint
