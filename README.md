@@ -35,8 +35,8 @@ To ensure a smooth training experience, students must meet the following prerequ
 1. [Azure CLI](./05%20AzureCLI/README.md)
 1. [Azure Automation](./06%20Automation/README.md)
 1. [Bicep](./07%20Bicep/README.md)
-1. [GitHib Actions](./08%20GitHub%20Actions/README.md)
+1. [GitHub Actions](./08%20GitHub%20Actions/README.md)
 
 ## Notes
 
-[Github Actions lab](./08%20GitHub%20Actions/Lab-Instructions.md) needs [specific role](https://learn.microsoft.com/en-us/entra/workload-id/workload-identity-federation-create-trust?pivots=identity-wif-apps-methods-azp) for Entra ID.
+[GitHub Actions lab](./08%20GitHub%20Actions/Lab-Instructions.md) needs [specific role](https://learn.microsoft.com/en-us/entra/workload-id/workload-identity-federation-create-trust?pivots=identity-wif-apps-methods-azp) for Entra ID.
