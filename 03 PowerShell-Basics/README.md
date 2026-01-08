@@ -34,7 +34,8 @@ cat topcpu.json
 
 ## Hint
 
-- Look to [PowerShell documentation](https://learn.microsoft.com/en-us/powershell/module/) to understand used cmdlets.
+- Try Copilot to understand used cmdlets.
+- [PowerShell documentation](https://learn.microsoft.com/en-us/powershell/module/)
 
 
 ## Best Practices
