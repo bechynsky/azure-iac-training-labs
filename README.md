@@ -39,4 +39,5 @@ To ensure a smooth training experience, students must meet the following prerequ
 
 ## Notes
 
-[GitHub Actions lab](./08%20GitHub%20Actions/Lab-Instructions.md) needs [specific role](https://learn.microsoft.com/en-us/entra/workload-id/workload-identity-federation-create-trust?pivots=identity-wif-apps-methods-azp) for Entra ID.
+> [!IMPORTANT]
+> [GitHub Actions lab](./08%20GitHub%20Actions/Lab-Instructions.md) needs [specific role](https://learn.microsoft.com/en-us/entra/workload-id/workload-identity-federation-create-trust?pivots=identity-wif-apps-methods-azp) for Entra ID.
