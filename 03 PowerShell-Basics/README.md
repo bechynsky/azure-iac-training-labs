@@ -4,8 +4,8 @@
 
 ## Instructions
 
-- Open [Azure Cloud Shell](https://shell.azure.com/) and login
-- Try to run follwing commands in prompt line by line.
+- Open [Azure Cloud Shell](https://shell.azure.com/) and login.
+- Try to run following commands in prompt line by line.
 
 ```powershell
 # Confirm PowerShell version
@@ -40,5 +40,5 @@ cat topcpu.json
 
 ## Best Practices
 
-- Use parameters avoid hardcoding.
+- Use parameters to avoid hardcoding.
 - Never hardcode secrets.
