@@ -7,7 +7,7 @@
 - Open Cloud Shell in your browser.
 - Choose Bash or PowerShell.
 - If prompted, create and mount a storage account.
-- Try commont tools like git, etc.
+- Try common tools like git, etc.
 - List all subscriptions and set the one you plan to use.
 - Confirm your active subscription.
 
@@ -19,4 +19,3 @@
 
 - Always verify your active subscription before creating resources.
 - Use persistent storage for saving scripts and files across sessions.
-
