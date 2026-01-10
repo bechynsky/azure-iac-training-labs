@@ -1,12 +1,12 @@
 # Azure Infrastructure as Code 101 Hands-On Exercise
 
-- Manage infrastructure the same way as application code
-- Easy to document everything described in files
-- Easy to repeat same script, same environment every time
-- Ensures consistency across dev, test, and production
-- Reduces human error by automating tasks
-- Enables collaboration: version control, sharing, reviewing
-- Copilot helps to write code and documentation
+- Manage infrastructure the same way as application code.
+- Easy to document everything described in files.
+- Easy to repeat same script, same environment every time.
+- Ensures consistency across dev, test, and production.
+- Reduces human error by automating tasks.
+- Enables collaboration: version control, sharing, reviewing.
+- Copilot helps to write code and documentation.
 
 ## Target Audience
 
@@ -24,7 +24,7 @@ To ensure a smooth training experience, students must meet the following prerequ
 - *Device and Browser:* Access to a computer with Microsoft Edge or Chrome browser.
 - *No Local Tools Required:* All activities will be performed in Azure Cloud Shell and the browser; no local installations are needed.
 - *Workshop Environment:* Ensure [Azure Cloud Shell](https://learn.microsoft.com/en-us/azure/cloud-shell/get-started/classic?tabs=azurecli) is configured.
-- *Recommendation:* Install [Visual Studio Code](https://code.visualstudio.com/) and configure [GitHub](https://code.visualstudio.com/docs/sourcecontrol/github) and [Github Copilot](https://code.visualstudio.com/docs/copilot/getting-started).
+- *Recommendation:* Install [Visual Studio Code](https://code.visualstudio.com/) and configure [GitHub](https://code.visualstudio.com/docs/sourcecontrol/github) and [GitHub Copilot](https://code.visualstudio.com/docs/copilot/getting-started).
 
 ## Labs
 
