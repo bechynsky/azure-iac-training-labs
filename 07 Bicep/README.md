@@ -23,4 +23,4 @@
 ## Best Practices
 - Use parameters for all user-supplied values.  
 - Avoid hardcoding secrets.  
-- Prefer **AVMs** for secure defaults, consistent naming, and reusable building blocks.  
+- Prefer **AVMs** for secure defaults, consistent naming, and reusable building blocks.
